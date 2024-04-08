@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nastya</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
-- 📝 I regularly write articles on [https://web.telegram.org/k/#@perfiktNastya](https://web.telegram.org/k/#@perfiktNastya)
-
-- ⚡ Fun fact **Now im learning in school 21**
+- ⚡ Fun fact **Now im studying in school 21**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
